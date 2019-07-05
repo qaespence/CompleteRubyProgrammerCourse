@@ -1,6 +1,6 @@
 # <summary>
 # Udemy course - Complete Ruby Programmer
-# Project 1 - Assignment
+# Section 2 - Assignment
 # Create a Ruby file that contains code which will print your age 3 times:
 # - in days
 # - in hours

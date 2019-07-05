@@ -1,6 +1,6 @@
 # <summary>
 # Udemy course - Complete Ruby Programmer
-# Project 1 - Hello World
+# Section 2 - Hello World
 # </summary>
 
 puts "hello world"
