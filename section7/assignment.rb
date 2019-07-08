@@ -5,8 +5,7 @@
 MAX_GRADE = 100
 
 class Person
-  attr_accessor :first_name
-  attr_accessor :last_name
+  attr_accessor :first_name, :last_name
 
   def initialize(first, last)
     @first_name = first
